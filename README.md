@@ -9,6 +9,3 @@
 <a href="https://twitter.com/its_geegeez">
 <img src="https://img.shields.io/badge/Twitter-white?logo=Twitter" />
 </a>
-<a href="https://paypal.me/itsgeegeez">
-<img src="https://img.shields.io/badge/Donate-00457C?logo=Paypal" />
-</a>
